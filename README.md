@@ -28,5 +28,10 @@ Step 3 : Use nano editor to open the script
 Step 4: To edit the file press ctrl X , then y and then enter
 Step 5: Give execution permission using the command:
         chmod +x script_name.sh 
-Step 5 : To run it type command bash script_name.sh
+Step 6 : To run it type command 
+Dependencies
+Linux / Ubuntu (WSL)
+Basic commands: grep, awk, dpkg, du, ls
+
+bash script_name.sh
 Step 6 : The file will be executed 
